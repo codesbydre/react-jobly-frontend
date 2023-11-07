@@ -1,0 +1,11 @@
+.DataCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.apply-button,
+.details-button {
+  align-self: flex-end; /* This will align the button to the right */
+}

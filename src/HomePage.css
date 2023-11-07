@@ -1,0 +1,7 @@
+.Homepage {
+  height: calc(100vh - 150px);
+  display: flex;
+  align-items: center;
+  color: white;
+  text-shadow: 2px 2px 2px rgb(78, 78, 78);
+}
